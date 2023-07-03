@@ -6,11 +6,11 @@ Hi there! I'm Kelvin, a software developer with expertise in JavaScript, React, 
 
 Here are a few noteworthy projects that I've worked on:
 
-- [Project 1] (https://github.com/KabiruH/Events-manager): A web application built with Ruby on Rails and React that helps users manage their tasks and organize their workflow efficiently.
+- [Project 1](https://github.com/KabiruH/Events-manager): A web application built with Ruby on Rails and React that helps users manage their tasks and organize their workflow efficiently.
 
-- [Project 2] (https://github.com/KabiruH/Movies_project): A responsive and interactive website developed using HTML, CSS, and JavaScript. It showcases my design and front-end development skills.
+- [Project 2](https://github.com/KabiruH/Movies_project): A responsive and interactive website developed using HTML, CSS, and JavaScript. It showcases my design and front-end development skills.
 
-- [Project 3] (https://github.com/KabiruH/Article-App): A RESTful API built with Ruby on Rails that provides data for a mobile application. It demonstrates my back-end development skills and knowledge of API design.
+- [Project 3](https://github.com/KabiruH/Article-App): A RESTful API built with Ruby on Rails that provides data for a mobile application. It demonstrates my back-end development skills and knowledge of API design.
 
 Feel free to explore these projects in detail and check out their respective repositories for source code, documentation, and live demos (if available).
 
@@ -24,7 +24,7 @@ If you'd like to get in touch with me regarding job opportunities, collaboration
 
 - Email: [huriakelvin@gmail.com](huriakelvin@gmail.com)
 - LinkedIn: [Kelvin](https://www.linkedin.com/in/kelvin-huria-79ab626a/)
-- Twitter: [@kabiruhuria]([https://twitter.com/your-twitter-handle](https://twitter.com/kabiruhuria))
+- Twitter: [@kabiruhuria](https://twitter.com/kabiruhuria)
 
 I'm always open to interesting projects and new connections, so don't hesitate to reach out!
 
