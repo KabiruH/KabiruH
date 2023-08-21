@@ -6,6 +6,8 @@ Hi there! I'm Kelvin, a software developer with expertise in JavaScript, React, 
 
 Here are a few noteworthy projects that I've worked on:
 
+My [Portfolio](https://portfolio-76jmncqlk-kabiruh.vercel.app/)
+
 - [Project 1](https://github.com/KabiruH/Events-manager): A web application built with Ruby on Rails and React that helps users manage their tasks and organize their workflow efficiently.
 
 - [Project 2](https://github.com/KabiruH/Movies_project): A responsive and interactive website developed using HTML, CSS, and JavaScript. It showcases my design and front-end development skills.
