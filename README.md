@@ -36,6 +36,7 @@ Here's a brief overview of my technical skills:
 
 - JavaScript
 - React
+- NextJS
 - Ruby
 - Ruby on Rails
 - HTML
