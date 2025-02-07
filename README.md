@@ -24,7 +24,7 @@ Besides my personal projects, I also enjoy contributing to open-source projects.
 
 If you'd like to get in touch with me regarding job opportunities, collaboration, or any other inquiries, feel free to reach out. You can contact me via:
 
-- Email: [huriakelvin@gmail.com](mailto:huriakelvin@gmail.com)
+- Email: [E-mail](mailto:huriakelvin@gmail.com)
 - LinkedIn: [Kelvin](https://www.linkedin.com/in/kelvin-huria-79ab626a/)
 - Twitter: [@kabiruhuria](https://twitter.com/kabiruhuria)
 
