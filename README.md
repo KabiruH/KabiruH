@@ -10,7 +10,7 @@ My [Portfolio](https://portfolio-76jmncqlk-kabiruh.vercel.app/)
 
 - [Project 1](https://github.com/KabiruH/Events-manager): A web application built with Ruby on Rails and React that helps users manage their tasks and organize their workflow efficiently.
 
-- [Project 2](https://github.com/KabiruH/Movies_project): A responsive and interactive website developed using HTML, CSS, and JavaScript. It showcases my design and front-end development skills.
+- [Project 2](https://github.com/KabiruH/kitenge-wear)): A responsive and interactive website developed using Nextj and TypeScript. It showcases my design and front-end development skills.
 
 - [Project 3](https://github.com/KabiruH/Article-App): A RESTful API built with Ruby on Rails that provides data for a mobile application. It demonstrates my back-end development skills and knowledge of API design.
 
