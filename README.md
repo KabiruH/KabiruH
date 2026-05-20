@@ -78,7 +78,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KabiruH&theme=tokyonight" width="94%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KabiruH&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 ---
 
