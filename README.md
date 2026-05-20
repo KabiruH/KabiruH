@@ -78,18 +78,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KabiruH&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KabiruH&layout=compact&theme=tokyonight&hide_border=true&count_private=true" width="47%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KabiruH&theme=tokyonight" width="94%" />
 </p>
-
 ---
 
 ## 💬 Let's Talk
 
 I'm open to **full-time roles**, **freelance projects**, and **collaborations** — especially anything involving Next.js, mobile, or systems that need to actually work in the field (not just on localhost).
 
-📧 **[huriakelvin@gmail.com](mailto:huriakelvin@gmail.com)**
-🔗 **[linkedin.com/in/kelvin-huria-79ab626a](https://www.linkedin.com/in/kelvin-huria-79ab626a/)**
+📧 **[Email](mailto:huriakelvin@gmail.com)**
+🔗 **[LinkedIn](https://www.linkedin.com/in/kelvin-huria-79ab626a/)**
 
 ---
 
