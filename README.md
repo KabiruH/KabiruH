@@ -24,7 +24,6 @@
 ## 🧑‍💻 About Me
 
 - 🔭 Currently building a **multi-tenant Attendance & Timetable Management System** deployed across Kenyan technical colleges
-- 🚀 Running **[Ubiru Systems](mailto:hello@ubiruafrica.co.ke)** — freelance work ranging from hotel booking platforms to NGO scholarship portals
 - 🌍 My apps handle M-Pesa payments, GPS geofencing, biometric auth, and enough edge cases to fill a novel
 - 📱 Mobile dev too — React Native (Expo/EAS) for cross-platform apps that actually ship
 - 🎯 Background in **Economics & Statistics** — yes, I can read your data *and* build the dashboard for it
